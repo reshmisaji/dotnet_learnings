@@ -1,0 +1,12 @@
+/Users/rsreshmi/RiderProjects/FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.dll.config
+/Users/rsreshmi/RiderProjects/FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.deps.json
+/Users/rsreshmi/RiderProjects/FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.runtimeconfig.json
+/Users/rsreshmi/RiderProjects/FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.runtimeconfig.dev.json
+/Users/rsreshmi/RiderProjects/FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.dll
+/Users/rsreshmi/RiderProjects/FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.pdb
+/Users/rsreshmi/RiderProjects/FirstWebApp/FirstWebApp/obj/Debug/netcoreapp2.2/FirstWebApp.csprojAssemblyReference.cache
+/Users/rsreshmi/RiderProjects/FirstWebApp/FirstWebApp/obj/Debug/netcoreapp2.2/FirstWebApp.csproj.CoreCompileInputs.cache
+/Users/rsreshmi/RiderProjects/FirstWebApp/FirstWebApp/obj/Debug/netcoreapp2.2/FirstWebApp.AssemblyInfoInputs.cache
+/Users/rsreshmi/RiderProjects/FirstWebApp/FirstWebApp/obj/Debug/netcoreapp2.2/FirstWebApp.AssemblyInfo.cs
+/Users/rsreshmi/RiderProjects/FirstWebApp/FirstWebApp/obj/Debug/netcoreapp2.2/FirstWebApp.dll
+/Users/rsreshmi/RiderProjects/FirstWebApp/FirstWebApp/obj/Debug/netcoreapp2.2/FirstWebApp.pdb
