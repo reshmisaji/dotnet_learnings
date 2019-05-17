@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Sum/Program.cs" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0fa9473-0d3a-40f6-8b6a-f9ead060f773" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sum/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sum/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sum/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sum/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/.idea/.idea.Sum.dir/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/.idea/.idea.Sum.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/.idea/.idea.Sum.dir/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/.idea/.idea.Sum.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/.idea/.idea.Sum.dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/.idea/.idea.Sum.dir/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/Calculator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/Number.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/Result.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/Sum.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/bin/Debug/netcoreapp2.1/McKinsey.Calculator.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/bin/Debug/netcoreapp2.1/McKinsey.Calculator.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/bin/Debug/netcoreapp2.1/McKinsey.Calculator.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/bin/Debug/netcoreapp2.1/McKinsey.Calculator.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/bin/Debug/netcoreapp2.1/McKinsey.Calculator.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/bin/Debug/netcoreapp2.1/nunit_random_seed.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/bin/Debug/netcoreapp2.2/Sum.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/bin/Debug/netcoreapp2.2/Sum.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/bin/Debug/netcoreapp2.2/Sum.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/bin/Debug/netcoreapp2.2/Sum.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/bin/Debug/netcoreapp2.2/Sum.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Debug/netcoreapp2.1/McKinsey.Calculator.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Debug/netcoreapp2.1/McKinsey.Calculator.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Debug/netcoreapp2.1/Sum.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Debug/netcoreapp2.1/Sum.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Debug/netcoreapp2.1/Sum.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Debug/netcoreapp2.1/Sum.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Debug/netcoreapp2.1/Sum.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Debug/netcoreapp2.1/Sum.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Debug/netcoreapp2.2/Sum.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Debug/netcoreapp2.2/Sum.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Debug/netcoreapp2.2/Sum.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Debug/netcoreapp2.2/Sum.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Debug/netcoreapp2.2/Sum.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Debug/netcoreapp2.2/Sum.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Debug/netcoreapp2.2/Sum.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Debug/netcoreapp2.2/Sum.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Sum.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Sum.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/Sum.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/CalculatorTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/NumberTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/ResultTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/SumTests.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/bin/Debug/netcoreapp2.2/McKinsey.Calculator.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/bin/Debug/netcoreapp2.2/McKinsey.Calculator.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/bin/Debug/netcoreapp2.2/SumTests.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/bin/Debug/netcoreapp2.2/SumTests.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/bin/Debug/netcoreapp2.2/SumTests.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/bin/Debug/netcoreapp2.2/SumTests.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/bin/Debug/netcoreapp2.2/SumTests.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/bin/Debug/netcoreapp2.2/nunit_random_seed.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/obj/Debug/netcoreapp2.2/SumTests.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/obj/Debug/netcoreapp2.2/SumTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/obj/Debug/netcoreapp2.2/SumTests.Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/obj/Debug/netcoreapp2.2/SumTests.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/obj/Debug/netcoreapp2.2/SumTests.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/obj/Debug/netcoreapp2.2/SumTests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/obj/Debug/netcoreapp2.2/SumTests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/obj/Debug/netcoreapp2.2/SumTests.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/obj/Debug/netcoreapp2.2/SumTests.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/obj/Debug/netcoreapp2.2/SumTests.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/obj/SumTests.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/obj/SumTests.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/obj/SumTests.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumTests/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/Calculator/obj/Calculator.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/Calculator/obj/Calculator.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/Calculator/obj/Calculator.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/Calculator/obj/Calculator.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/Calculator/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/Calculator/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstWebApp/FirstWebApp/obj/Debug/netcoreapp2.2/FirstWebApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstWebApp/FirstWebApp/obj/Debug/netcoreapp2.2/FirstWebApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstWebApp/FirstWebApp/obj/Debug/netcoreapp2.2/FirstWebApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstWebApp/FirstWebApp/obj/Debug/netcoreapp2.2/FirstWebApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstWebApp/FirstWebApp/obj/FirstWebApp.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstWebApp/FirstWebApp/obj/FirstWebApp.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstWebApp/FirstWebApp/obj/FirstWebApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstWebApp/FirstWebApp/obj/FirstWebApp.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstWebApp/FirstWebApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstWebApp/FirstWebApp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/.idea/.idea.Hello/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/.idea/.idea.Hello/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/.idea/.idea.Hello/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/.idea/.idea.Hello/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/.idea/.idea.Hello/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/Hello.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/.idea/.idea.SimpleCalculator.dir/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/.idea/.idea.SimpleCalculator.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/.idea/.idea.SimpleCalculator.dir/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/.idea/.idea.SimpleCalculator.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleCalculator/.idea/.idea.SimpleCalculator.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/.idea/.idea.SimpleCalculator.dir/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/Number.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/SimpleCalculator.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/bin/Debug/netcoreapp2.2/SimpleCalculator.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/bin/Debug/netcoreapp2.2/SimpleCalculator.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/bin/Debug/netcoreapp2.2/SimpleCalculator.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/bin/Debug/netcoreapp2.2/SimpleCalculator.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/bin/Debug/netcoreapp2.2/SimpleCalculator.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/bin/Debug/netcoreapp2.2/Sum.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/bin/Debug/netcoreapp2.2/Sum.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/bin/Debug/netcoreapp2.2/Sum.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Debug/netcoreapp2.2/SimpleCalculator.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Debug/netcoreapp2.2/SimpleCalculator.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Debug/netcoreapp2.2/SimpleCalculator.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Debug/netcoreapp2.2/SimpleCalculator.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Debug/netcoreapp2.2/SimpleCalculator.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Debug/netcoreapp2.2/SimpleCalculator.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Debug/netcoreapp2.2/SimpleCalculator.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Debug/netcoreapp2.2/SimpleCalculator.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Debug/netcoreapp2.2/Sum.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Debug/netcoreapp2.2/Sum.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Debug/netcoreapp2.2/Sum.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Debug/netcoreapp2.2/Sum.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Debug/netcoreapp2.2/Sum.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Debug/netcoreapp2.2/Sum.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Debug/netcoreapp2.2/Sum.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Debug/netcoreapp2.2/Sum.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/SimpleCalculator.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/SimpleCalculator.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/SimpleCalculator.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Sum.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Sum.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/Sum.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculator/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloWorld/.idea/.idea.helloWorld/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Sum" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sum/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+              <folding>
+                <marker date="1558072634786" expanded="true" signature="29:321" ph="{...}" />
+                <marker date="1558072634786" expanded="true" signature="65:319" ph="{...}" />
+                <marker date="1558072634786" expanded="true" signature="105:313" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sum/Calculator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+              <folding>
+                <marker date="1558074704365" expanded="true" signature="29:977" ph="{...}" />
+                <marker date="1558074704365" expanded="true" signature="59:975" ph="{...}" />
+                <marker date="1558074704365" expanded="true" signature="139:279" ph="{...}" />
+                <marker date="1558074704365" expanded="true" signature="359:513" ph="{...}" />
+                <marker date="1558074704365" expanded="true" signature="593:741" ph="{...}" />
+                <marker date="1558074704365" expanded="true" signature="819:969" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SumTests/CalculatorTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="668">
+              <caret line="60" column="47" lean-forward="true" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
+              <folding>
+                <marker date="1558074639792" expanded="true" signature="6:49" ph="..." />
+                <marker date="1558074639792" expanded="true" signature="69:2163" ph="{...}" />
+                <marker date="1558074639792" expanded="true" signature="103:2161" ph="{...}" />
+                <marker date="1558074639792" expanded="true" signature="182:326" ph="{...}" />
+                <marker date="1558074639792" expanded="true" signature="399:768" ph="{...}" />
+                <marker date="1558074639792" expanded="true" signature="844:1241" ph="{...}" />
+                <marker date="1558074639792" expanded="true" signature="1314:1696" ph="{...}" />
+                <marker date="1558074639792" expanded="true" signature="1770:2155" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SumTests/ResultTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+              <folding>
+                <marker date="1558073175741" expanded="true" signature="6:49" ph="..." />
+                <marker date="1558073175741" expanded="true" signature="69:624" ph="{...}" />
+                <marker date="1558073175741" expanded="true" signature="99:622" ph="{...}" />
+                <marker date="1558073175741" expanded="true" signature="173:314" ph="{...}" />
+                <marker date="1558073175741" expanded="true" signature="381:616" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SumTests/NumberTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <marker date="1558073491769" expanded="true" signature="6:49" ph="..." />
+                <marker date="1558073491769" expanded="true" signature="69:488" ph="{...}" />
+                <marker date="1558073491769" expanded="true" signature="112:486" ph="{...}" />
+                <marker date="1558073491769" expanded="true" signature="190:307" ph="{...}" />
+                <marker date="1558073491769" expanded="true" signature="375:480" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sum/Number.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <folding>
+                <marker date="1558073491765" expanded="true" signature="29:267" ph="{...}" />
+                <marker date="1558073491765" expanded="true" signature="55:265" ph="{...}" />
+                <marker date="1558073491765" expanded="true" signature="132:180" ph="{...}" />
+                <marker date="1558073491765" expanded="true" signature="211:258" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sum/Result.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding>
+                <marker date="1558072135181" expanded="true" signature="44:405" ph="{...}" />
+                <marker date="1558072135181" expanded="true" signature="70:403" ph="{...}" />
+                <marker date="1558072135181" expanded="true" signature="155:205" ph="{...}" />
+                <marker date="1558072135181" expanded="true" signature="236:307" ph="{...}" />
+                <marker date="1558072135181" expanded="true" signature="338:397" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SumTests/ResultTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SumTests/NumberTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SumTests/CalculatorTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sum/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sum/Number.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sum/Calculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sum/Result.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Sum/Tests/new.cs" />
+        <option value="$PROJECT_DIR$/Sum/Tests/ResultTest.cs" />
+        <option value="$PROJECT_DIR$/Sum/Sum.csproj" />
+        <option value="$PROJECT_DIR$/Sum/AdvancedCalculator/Calculator.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/TestProject1.csproj" />
+        <option value="$PROJECT_DIR$/SumTests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/Sum/Result.cs" />
+        <option value="$PROJECT_DIR$/Sum/Program.cs" />
+        <option value="$PROJECT_DIR$/SumTests/ResultTest.cs" />
+        <option value="$PROJECT_DIR$/Sum/Number.cs" />
+        <option value="$PROJECT_DIR$/SumTests/NumberTest.cs" />
+        <option value="$PROJECT_DIR$/SumTests/CalculatorTest.cs" />
+        <option value="$PROJECT_DIR$/Sum/Calculator.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.Sum/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.Sum/.idea/indexLayout.xml" />
+        <option value="$PROJECT_DIR$/Sum/.idea/.idea.Sum.dir/riderModule.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="24" />
+    <option name="width" value="1438" />
+    <option name="height" value="838" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Sum" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Sum" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Sum" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Sum" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SumTests" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Sum">
+    <configuration name="Sum" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Sum/bin/Debug/netcoreapp2.2/Sum.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sum" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Sum/Sum.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0fa9473-0d3a-40f6-8b6a-f9ead060f773" name="Default Changelist" comment="" />
+      <created>1557992917691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557992917691</updated>
+      <workItem from="1557992918915" duration="4969000" />
+      <workItem from="1558000564607" duration="6721000" />
+      <workItem from="1558061703704" duration="9763000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21453000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4975186" weight="0.26180556" />
+      <window_info id="Structure" order="1" sideWeight="0.5024814" side_tool="true" weight="0.26180556" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.3298611" />
+      <window_info anchor="bottom" id="NuGet" order="0" weight="0.3114144" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.3287841" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3287841" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.3287841" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.3995037" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" weight="0.3287841" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info active="true" anchor="right" id="Unit Tests" order="6" visible="true" weight="0.3201389" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Sum/Tests/new.cs" />
+    <entry file="file://$PROJECT_DIR$/Sum/Tests/ResultTest.cs" />
+    <entry file="file://$PROJECT_DIR$/Sum/AdvancedCalculator/Calculator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestProject1/TestProject1.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestProject1/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sum.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sum/Sum.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sum/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <marker date="1558072634786" expanded="true" signature="29:321" ph="{...}" />
+            <marker date="1558072634786" expanded="true" signature="65:319" ph="{...}" />
+            <marker date="1558072634786" expanded="true" signature="105:313" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sum/Result.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <marker date="1558072135181" expanded="true" signature="44:405" ph="{...}" />
+            <marker date="1558072135181" expanded="true" signature="70:403" ph="{...}" />
+            <marker date="1558072135181" expanded="true" signature="155:205" ph="{...}" />
+            <marker date="1558072135181" expanded="true" signature="236:307" ph="{...}" />
+            <marker date="1558072135181" expanded="true" signature="338:397" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sum/Number.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <marker date="1558073491765" expanded="true" signature="29:267" ph="{...}" />
+            <marker date="1558073491765" expanded="true" signature="55:265" ph="{...}" />
+            <marker date="1558073491765" expanded="true" signature="132:180" ph="{...}" />
+            <marker date="1558073491765" expanded="true" signature="211:258" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SumTests/NumberTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1558073491769" expanded="true" signature="6:49" ph="..." />
+            <marker date="1558073491769" expanded="true" signature="69:488" ph="{...}" />
+            <marker date="1558073491769" expanded="true" signature="112:486" ph="{...}" />
+            <marker date="1558073491769" expanded="true" signature="190:307" ph="{...}" />
+            <marker date="1558073491769" expanded="true" signature="375:480" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SumTests/ResultTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding>
+            <marker date="1558073175741" expanded="true" signature="6:49" ph="..." />
+            <marker date="1558073175741" expanded="true" signature="69:624" ph="{...}" />
+            <marker date="1558073175741" expanded="true" signature="99:622" ph="{...}" />
+            <marker date="1558073175741" expanded="true" signature="173:314" ph="{...}" />
+            <marker date="1558073175741" expanded="true" signature="381:616" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SumTests/CalculatorTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="60" column="47" lean-forward="true" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
+          <folding>
+            <marker date="1558074639792" expanded="true" signature="6:49" ph="..." />
+            <marker date="1558074639792" expanded="true" signature="69:2163" ph="{...}" />
+            <marker date="1558074639792" expanded="true" signature="103:2161" ph="{...}" />
+            <marker date="1558074639792" expanded="true" signature="182:326" ph="{...}" />
+            <marker date="1558074639792" expanded="true" signature="399:768" ph="{...}" />
+            <marker date="1558074639792" expanded="true" signature="844:1241" ph="{...}" />
+            <marker date="1558074639792" expanded="true" signature="1314:1696" ph="{...}" />
+            <marker date="1558074639792" expanded="true" signature="1770:2155" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sum/Calculator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <marker date="1558074704365" expanded="true" signature="29:977" ph="{...}" />
+            <marker date="1558074704365" expanded="true" signature="59:975" ph="{...}" />
+            <marker date="1558074704365" expanded="true" signature="139:279" ph="{...}" />
+            <marker date="1558074704365" expanded="true" signature="359:513" ph="{...}" />
+            <marker date="1558074704365" expanded="true" signature="593:741" ph="{...}" />
+            <marker date="1558074704365" expanded="true" signature="819:969" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

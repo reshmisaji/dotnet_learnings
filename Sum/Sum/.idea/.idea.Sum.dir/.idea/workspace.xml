@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89867fae-962a-4124-8938-825c5debf863" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Sum/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Sum/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Sum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Sum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Sum/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.Sum/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sum.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Result.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Sum.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Sum.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Sum.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Sum.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/Sum.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.1/nunit_random_seed.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/Sum.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/Sum.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/Sum.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/Sum.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/Sum.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Sum.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Sum.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Sum.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Sum.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Sum.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Sum.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Sum.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.1/Sum.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Sum.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Sum.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Sum.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Sum.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Sum.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Sum.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Sum.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.2/Sum.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Sum.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Sum.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Sum.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/TestProject1.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/UnitTest1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/bin/Debug/netcoreapp2.2/TestProject1.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/bin/Debug/netcoreapp2.2/TestProject1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/bin/Debug/netcoreapp2.2/TestProject1.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/bin/Debug/netcoreapp2.2/TestProject1.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/bin/Debug/netcoreapp2.2/TestProject1.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/bin/Debug/netcoreapp2.2/nunit_random_seed.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/obj/Debug/netcoreapp2.2/TestProject1.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/obj/Debug/netcoreapp2.2/TestProject1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/obj/Debug/netcoreapp2.2/TestProject1.Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/obj/Debug/netcoreapp2.2/TestProject1.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/obj/Debug/netcoreapp2.2/TestProject1.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/obj/Debug/netcoreapp2.2/TestProject1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/obj/Debug/netcoreapp2.2/TestProject1.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/obj/Debug/netcoreapp2.2/TestProject1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/obj/Debug/netcoreapp2.2/TestProject1.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/obj/TestProject1.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/obj/TestProject1.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/obj/TestProject1.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject1/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/Calculator/obj/Calculator.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/Calculator/obj/Calculator.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/Calculator/obj/Calculator.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/Calculator/obj/Calculator.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculator/Calculator/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Calculator/Calculator/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstWebApp/FirstWebApp/bin/Debug/netcoreapp2.2/FirstWebApp.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FirstWebApp/FirstWebApp/obj/Debug/netcoreapp2.2/FirstWebApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstWebApp/FirstWebApp/obj/Debug/netcoreapp2.2/FirstWebApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FirstWebApp/FirstWebApp/obj/Debug/netcoreapp2.2/FirstWebApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstWebApp/FirstWebApp/obj/Debug/netcoreapp2.2/FirstWebApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FirstWebApp/FirstWebApp/obj/FirstWebApp.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstWebApp/FirstWebApp/obj/FirstWebApp.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FirstWebApp/FirstWebApp/obj/FirstWebApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstWebApp/FirstWebApp/obj/FirstWebApp.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FirstWebApp/FirstWebApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstWebApp/FirstWebApp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/.idea.Hello/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/.idea.Hello/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/.idea.Hello/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/.idea.Hello/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/.idea.Hello/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/Hello.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/.idea/.idea.SimpleCalculator.dir/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/.idea/.idea.SimpleCalculator.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/.idea/.idea.SimpleCalculator.dir/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/.idea/.idea.SimpleCalculator.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SimpleCalculator/.idea/.idea.SimpleCalculator.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/.idea/.idea.SimpleCalculator.dir/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/Number.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/SimpleCalculator.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/bin/Debug/netcoreapp2.2/SimpleCalculator.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/bin/Debug/netcoreapp2.2/SimpleCalculator.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/bin/Debug/netcoreapp2.2/SimpleCalculator.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/bin/Debug/netcoreapp2.2/SimpleCalculator.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/bin/Debug/netcoreapp2.2/SimpleCalculator.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/bin/Debug/netcoreapp2.2/Sum.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/bin/Debug/netcoreapp2.2/Sum.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/bin/Debug/netcoreapp2.2/Sum.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Debug/netcoreapp2.2/SimpleCalculator.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Debug/netcoreapp2.2/SimpleCalculator.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Debug/netcoreapp2.2/SimpleCalculator.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Debug/netcoreapp2.2/SimpleCalculator.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Debug/netcoreapp2.2/SimpleCalculator.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Debug/netcoreapp2.2/SimpleCalculator.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Debug/netcoreapp2.2/SimpleCalculator.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Debug/netcoreapp2.2/SimpleCalculator.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Debug/netcoreapp2.2/Sum.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Debug/netcoreapp2.2/Sum.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Debug/netcoreapp2.2/Sum.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Debug/netcoreapp2.2/Sum.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Debug/netcoreapp2.2/Sum.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Debug/netcoreapp2.2/Sum.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Debug/netcoreapp2.2/Sum.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Debug/netcoreapp2.2/Sum.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/SimpleCalculator.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/SimpleCalculator.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/SimpleCalculator.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Sum.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Sum.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/Sum.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SimpleCalculator/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../helloWorld/.idea/.idea.helloWorld/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sum.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Sum.csproj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.Sum.dir/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.Sum.dir/.idea/indexLayout.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="24" />
+    <option name="width" value="1438" />
+    <option name="height" value="838" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89867fae-962a-4124-8938-825c5debf863" name="Default Changelist" comment="" />
+      <created>1558010927579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558010927579</updated>
+      <workItem from="1558010928796" duration="739000" />
+      <workItem from="1558061689795" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="749000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Sum.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

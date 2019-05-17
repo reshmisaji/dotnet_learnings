@@ -1,0 +1,14 @@
+/Users/rsreshmi/RiderProjects/Sum/Sum/bin/Debug/netcoreapp2.2/Sum.deps.json
+/Users/rsreshmi/RiderProjects/Sum/Sum/bin/Debug/netcoreapp2.2/Sum.runtimeconfig.json
+/Users/rsreshmi/RiderProjects/Sum/Sum/bin/Debug/netcoreapp2.2/Sum.runtimeconfig.dev.json
+/Users/rsreshmi/RiderProjects/Sum/Sum/bin/Debug/netcoreapp2.2/Sum.dll
+/Users/rsreshmi/RiderProjects/Sum/Sum/bin/Debug/netcoreapp2.2/Sum.pdb
+/Users/rsreshmi/RiderProjects/Sum/Sum/obj/Debug/netcoreapp2.2/Sum.csprojAssemblyReference.cache
+/Users/rsreshmi/RiderProjects/Sum/Sum/obj/Debug/netcoreapp2.2/Sum.csproj.CoreCompileInputs.cache
+/Users/rsreshmi/RiderProjects/Sum/Sum/obj/Debug/netcoreapp2.2/Sum.AssemblyInfoInputs.cache
+/Users/rsreshmi/RiderProjects/Sum/Sum/obj/Debug/netcoreapp2.2/Sum.AssemblyInfo.cs
+/Users/rsreshmi/RiderProjects/Sum/Sum/obj/Debug/netcoreapp2.2/Sum.dll
+/Users/rsreshmi/RiderProjects/Sum/Sum/obj/Debug/netcoreapp2.2/Sum.pdb
+/Users/rsreshmi/RiderProjects/Sum/Sum/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/rsreshmi/RiderProjects/Sum/Sum/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/rsreshmi/RiderProjects/Sum/Sum/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll

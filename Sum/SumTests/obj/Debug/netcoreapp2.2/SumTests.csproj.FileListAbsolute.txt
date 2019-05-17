@@ -1,0 +1,17 @@
+/Users/rsreshmi/RiderProjects/Sum/SumTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/rsreshmi/RiderProjects/Sum/SumTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/rsreshmi/RiderProjects/Sum/SumTests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/rsreshmi/RiderProjects/Sum/SumTests/bin/Debug/netcoreapp2.2/SumTests.deps.json
+/Users/rsreshmi/RiderProjects/Sum/SumTests/bin/Debug/netcoreapp2.2/SumTests.runtimeconfig.json
+/Users/rsreshmi/RiderProjects/Sum/SumTests/bin/Debug/netcoreapp2.2/SumTests.runtimeconfig.dev.json
+/Users/rsreshmi/RiderProjects/Sum/SumTests/bin/Debug/netcoreapp2.2/SumTests.dll
+/Users/rsreshmi/RiderProjects/Sum/SumTests/bin/Debug/netcoreapp2.2/SumTests.pdb
+/Users/rsreshmi/RiderProjects/Sum/SumTests/bin/Debug/netcoreapp2.2/McKinsey.Calculator.dll
+/Users/rsreshmi/RiderProjects/Sum/SumTests/bin/Debug/netcoreapp2.2/McKinsey.Calculator.pdb
+/Users/rsreshmi/RiderProjects/Sum/SumTests/obj/Debug/netcoreapp2.2/SumTests.csprojAssemblyReference.cache
+/Users/rsreshmi/RiderProjects/Sum/SumTests/obj/Debug/netcoreapp2.2/SumTests.csproj.CoreCompileInputs.cache
+/Users/rsreshmi/RiderProjects/Sum/SumTests/obj/Debug/netcoreapp2.2/SumTests.AssemblyInfoInputs.cache
+/Users/rsreshmi/RiderProjects/Sum/SumTests/obj/Debug/netcoreapp2.2/SumTests.AssemblyInfo.cs
+/Users/rsreshmi/RiderProjects/Sum/SumTests/obj/Debug/netcoreapp2.2/SumTests.csproj.CopyComplete
+/Users/rsreshmi/RiderProjects/Sum/SumTests/obj/Debug/netcoreapp2.2/SumTests.dll
+/Users/rsreshmi/RiderProjects/Sum/SumTests/obj/Debug/netcoreapp2.2/SumTests.pdb
